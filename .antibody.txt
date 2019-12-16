@@ -1,0 +1,5 @@
+tobyjamesthomas/pi
+zsh-users/zsh-syntax-highlighting
+littleq0903/gcloud-zsh-completion
+zsh-users/zsh-autosuggestions
+MikeDacre/careful_rm

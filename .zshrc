@@ -16,7 +16,7 @@ export PATH=/usr/local/go/bin:$GOPATH/bin:$HOME/bin:/usr/local/bin:$PATH
 
 alias cat=bat
 alias ls="gls --color=always"
-
+alias cls=clear
 alias g=git
 alias gcm="git commit"
 alias gcmi="git commit -m 'Initial Commit'"

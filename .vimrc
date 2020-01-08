@@ -8,3 +8,4 @@ Plug 'wincent/command-t'
 call plug#end()
 
 :set number
+:syntax on

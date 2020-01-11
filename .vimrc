@@ -13,3 +13,7 @@ call plug#end()
 :syntax on
 
 :nmap <C-e> :NERDTreeToggle<CR>
+
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
